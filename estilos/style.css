@@ -20,12 +20,12 @@ main {
 
 h1 {
     font-size: 2em;
-    color: green;
+    color: blue;
 }
 
 h2 {
     font-size: 1.5em;
-    color: green;
+    color: blue;
 }
 
 img.lado{
@@ -35,10 +35,10 @@ img.lado{
 a {
     text-decoration: nome;
     font-weight: bold;
-    color: green;
+    color: blue;
 }
 
 a:hover{
     text-decoration: underline;
-    color: green;
+    color: blue;
 }
